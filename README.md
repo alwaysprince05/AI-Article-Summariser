@@ -4,9 +4,7 @@ A powerful Chrome extension that uses Google's Gemini AI to summarize web articl
 
 ## 🎥 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-*Replace `YOUR_VIDEO_ID` with your actual YouTube video ID, or add your video link here*
+https://github.com/user-attachments/assets/56fa4908-b84d-4a4f-81a1-d9292d32648e
 
 ## ✨ Features
 
